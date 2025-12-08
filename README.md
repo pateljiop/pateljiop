@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m HARIOM <br>👀 I’m interested in coding ...<br>💞️ I’m looking to collaborate ...<br>🌱 I’m currently learning ...
+<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/7112868a-47f7-4674-a581-09ceae163522" />
 
 
 ## 🌐 Socials:
