@@ -1,5 +1,6 @@
-# 💫 About Me:
-<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/7112868a-47f7-4674-a581-09ceae163522" />
+#
+<img width="1888" height="502" alt="image" src="https://github.com/user-attachments/assets/854adf11-baba-40dc-9fa8-871e344aff82" />
+
 
 
 ## 🌐 Socials:
