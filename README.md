@@ -1,6 +1,6 @@
 <!-- ===== HEADER BANNER ===== -->
 <div align="center">
-  <img width="100%" alt="Hariom Patel - Python Developer & Full-Stack Developer" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=👋+Hi+I'm+Hariom+Patel;💻+Python+Developer+|+Full-Stack+Developer;🤖+AI+%26+NLP+Specialist;📍+Building+Production-Ready+Applications" />
+  <img width="100%" alt="Hariom - Aspiring Software Developer" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00D2FF&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Hi%2C+I'm+Hariom!;%F0%9F%92%BB+Aspiring+Software+Developer;%F0%9F%8E%93+BCA+Student+(5th+Sem)+%7C+Ballia%2C+UP;%F0%9F%9A%80+Python+%26+Web+Dev+Intern />
 </div>
 
 ---
