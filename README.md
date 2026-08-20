@@ -1,4 +1,5 @@
 <div align="center">
+  <img width="220" alt="Hariom Builds — official logo" src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/02_Compact_Logo.png" />
   <h1>HARIOM BUILDS</h1>
   <p><strong>Web Development · Python · AI · Automation</strong></p>
   <p>Code • Create • Automate</p>
@@ -8,7 +9,11 @@
 ---
 
 <div align="center">
-  <img width="100%" alt="Hariom Builds - Web Development & Automation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00D2FF&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Hi%2C+I'm+Hariom;%F0%9F%92%BB+Web+Developer+%7C+Python+%7C+AI;%F0%9F%9A%80+Code+%E2%80%A2+Create+%E2%80%A2+Automate" />
+  <img width="100%" alt="Hariom Builds — official brand banner" src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/08_Banner_Cover.png" />
+</div>
+
+<div align="center">
+  <img width="100%" alt="Hariom Builds — Web Development & Automation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00D2FF&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Hi%2C+I'm+Hariom;%F0%9F%92%BB+Web+Developer+%7C+Python+%7C+AI;%F0%9F%9A%80+Code+%E2%80%A2+Create+%E2%80%A2+Automate" />
 </div>
 
 ## 👋 About Me
@@ -72,6 +77,8 @@ I care about useful products, clean implementation, responsive design and buildi
 </div>
 
 <div align="center">
+  <br>
+  <img width="110" alt="Hariom Builds — compact logo" src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/02_Compact_Logo.png" />
   <br>
   <strong>HARIOM BUILDS</strong><br>
   <sub>Code • Create • Automate</sub>
