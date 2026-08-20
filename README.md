@@ -1,25 +1,24 @@
 <div align="center">
-  <img src="brand/hariom-mark.svg" width="140" alt="Hariom Patel brand mark" />
-  <h1>Hariom Patel</h1>
-  <p><strong>Freelance Web Developer · Python · Automation</strong></p>
+  <img src="brand/hariom-mark.svg" width="140" alt="Hariom brand mark" />
+  <h1>Hariom</h1>
+  <p><strong>Web Developer · Python · Automation</strong></p>
   <p>Code • Create • Automate</p>
 </div>
 
 ---
 
-<!-- ===== HEADER BANNER ===== -->
 <div align="center">
-  <img width="100%" alt="Hariom Patel - Freelance Web Developer" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00D2FF&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Hi%2C+I'm+Hariom+Patel!;%F0%9F%92%BB+BCA+Student+%7C+Web+Developer;%F0%9F%9A%80+Freelance+Web+Development+%26+Automation" />
+  <img width="100%" alt="Hariom - Web Developer" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00D2FF&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Hi%2C+I'm+Hariom!;%F0%9F%92%BB+BCA+Student+%7C+Web+Developer;%F0%9F%9A%80+Web+Development+%26+Automation" />
 </div>
 
 ## 🎯 About Me
 
-> **BCA Student & Freelance Web Developer** focused on practical problem-solving, responsive websites, Python utilities, automation, and AI-assisted development workflows.
+> **BCA Student & Web Developer** focused on practical problem-solving, responsive websites, Python utilities, automation, and AI-assisted development workflows.
 
 <div align="center">
   <strong>📍 Location:</strong> Prayagraj, Uttar Pradesh, India<br>
   <strong>🎓 Education:</strong> BCA (2024 – 2027) | Prof. Rajendra Singh (Rajju Bhaiya) University<br>
-  <strong>⚡ Open to:</strong> Freelance Projects, Remote Internships, Junior Web/Python Roles
+  <strong>⚡ Open to:</strong> Projects, Remote Internships, Junior Web/Python Roles
 </div>
 
 ## 🛠️ Technical Skills
@@ -85,6 +84,6 @@ Prof. Rajendra Singh (Rajju Bhaiya) University, Prayagraj
 </div>
 
 <div align="center">
-  <strong>Hariom Patel</strong><br>
-  <sub>Freelance Web Developer · Code • Create • Automate</sub>
+  <strong>Hariom</strong><br>
+  <sub>Web Developer · Code • Create • Automate</sub>
 </div>
