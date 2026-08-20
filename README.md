@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="220" alt="Hariom Builds — official logo" src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/02_Compact_Logo.png" />
+  <img width="420" alt="Hariom Builds — official primary logo" src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/01_Primary_Mascot_Profile.png" />
   <h1>HARIOM BUILDS</h1>
   <p><strong>Web Development · Python · AI · Automation</strong></p>
   <p>Code • Create • Automate</p>
@@ -77,9 +77,6 @@ I care about useful products, clean implementation, responsive design and buildi
 </div>
 
 <div align="center">
-  <br>
-  <img width="110" alt="Hariom Builds — compact logo" src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/02_Compact_Logo.png" />
-  <br>
   <strong>HARIOM BUILDS</strong><br>
   <sub>Code • Create • Automate</sub>
 </div>
