@@ -43,52 +43,7 @@ I like turning ideas into working software—with clear interfaces, useful featu
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧰 Haryomix
-A student-focused digital workspace with study tools, document utilities, revision workflows, and productivity features.
-
-**Stack:** Next.js · TypeScript · Web APIs
-
-[Open website](https://haryomix.eu.cc) · [Source code](https://github.com/pateljiop/Haryomix)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Hariom AI
-A Windows-first personal AI workstation with an OpenAI-compatible gateway, provider routing, fallback behavior, and local configuration.
-
-**Stack:** Python · APIs · SQLite
-
-[Explore repository](https://github.com/pateljiop/hariom-ai)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧭 Komio
-A local-first personal workstation prototype focused on task planning, explicit permissions, bounded tool execution, and reviewing outcomes.
-
-**Stack:** Python · JavaScript · SQLite
-
-[Explore repository](https://github.com/pateljiop/komio)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎥 Website Tour Recorder
-A configurable website-tour recorder with Playwright browser automation and video export, designed for local use or GitHub Actions.
-
-**Stack:** Python · Playwright · FFmpeg
-
-[Explore repository](https://github.com/pateljiop/website-tour-recorder)
-
-</td>
-</tr>
-</table>
+**Explore the projects:** [Haryomix ↗](https://github.com/pateljiop/Haryomix) · [Hariom AI ↗](https://github.com/pateljiop/hariom-ai) · [Komio ↗](https://github.com/pateljiop/komio) · [Website Tour Recorder ↗](https://github.com/pateljiop/website-tour-recorder)
 
 ## Activity & Stats
 
