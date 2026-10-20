@@ -1,16 +1,13 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-hero.svg" width="100%" alt="Hariom Builds — neon developer workspace banner" />
+<img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-hero.svg" width="100%" alt="Hariom Builds neon developer banner" />
 
 # HARIOM BUILDS
+**Ideas → Code → Products**
 
-### Ideas → Code → Products<br/>Building useful software and automation in public.
+[Portfolio](https://hariom-portfolio.pages.dev/) · [GitHub](https://github.com/pateljiop) · [LinkedIn](https://linkedin.com/in/pateljiop)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D2FF?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://hariom-portfolio.pages.dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-pateljiop-161B22?style=for-the-badge&logo=github)](https://github.com/pateljiop)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pateljiop)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=800&color=00D2FF&center=true&vCenter=true&width=800&lines=Web+Development+%2F%2F+Python;AI+Tools+%2F%2F+Workflow+Automation;Build+%E2%80%A2+Test+%E2%80%A2+Improve)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=800&color=00D2FF&center=true&vCenter=true&width=600&lines=Web+Development;AI+Tools+%26+Automation;Build+%E2%80%A2+Test+%E2%80%A2+Improve)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,50 +16,44 @@
 ## Developer Console
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-terminal.svg" width="100%" alt="Hariom Builds developer terminal identity card" />
-
+<img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-terminal.svg" width="100%" alt="Hariom Builds developer identity and workspace" />
 </div>
 
-## whoami
+I'm **Hariom Patel**, a BCA student building practical web apps, AI-assisted tools and automation workflows.
 
-I'm **Hariom Patel**, a BCA student and developer building practical web apps, AI-assisted tools, and automation workflows.
+- 🔭 Building: **Haryomix**, **Hariom AI**, **Komio**
+- 🧪 Exploring: AI routing, local-first tools, browser automation
+- 🌐 Portfolio: [hariom-portfolio.pages.dev](https://hariom-portfolio.pages.dev/)
 
-I like turning ideas into working software—with clear interfaces, useful features, and honest documentation. I share projects as I build, test, and improve them.
-
-- 🔭 **Building:** [Haryomix](https://haryomix.eu.cc), [Hariom AI](https://github.com/pateljiop/hariom-ai), and [Komio](https://github.com/pateljiop/komio)
-- 🧪 **Exploring:** AI tool routing, local-first apps, browser automation, and developer tooling
-- 🌐 **Portfolio:** [hariom-portfolio.pages.dev](https://hariom-portfolio.pages.dev/)
-- 💬 **Focus:** Web development · Python · AI tools · Automation
-
-## featured-projects
+## Featured Projects
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/featured-projects.svg" width="100%" alt="Four featured Hariom Builds projects: Haryomix, Hariom AI, Komio and Website Tour Recorder" />
-
+<img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/featured-projects.svg" width="100%" alt="Hariom Builds project gallery" />
 </div>
 
-**Explore the projects:** [Haryomix ↗](https://github.com/pateljiop/Haryomix) · [Hariom AI ↗](https://github.com/pateljiop/hariom-ai) · [Komio ↗](https://github.com/pateljiop/komio) · [Website Tour Recorder ↗](https://github.com/pateljiop/website-tour-recorder)
+| Project | Focus | Links |
+|---|---|---|
+| **Haryomix** | Student workspace and study tools | [Live](https://haryomix.eu.cc) · [Repo](https://github.com/pateljiop/Haryomix) |
+| **Hariom AI** | Local AI gateway and provider routing | [Repo](https://github.com/pateljiop/hariom-ai) |
+| **Komio** | Local-first workspace with guarded tools | [Repo](https://github.com/pateljiop/komio) |
+| **Website Tour Recorder** | Browser tours and video capture | [Repo](https://github.com/pateljiop/website-tour-recorder) |
 
-## Activity & Stats
+## GitHub Activity
 
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pateljiop&bg_color=0d1117&color=c9d1d9&line=00d2ff&point=a78bfa&area=true&hide_border=true)](https://github.com/pateljiop)
-
+<img src="https://github-readme-stats.vercel.app/api?username=pateljiop&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=00D2FF&text_color=C9D1D9&icon_color=8B5CF6" width="100%" alt="GitHub statistics for pateljiop" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateljiop&layout=compact&hide_border=true&langs_count=6&bg_color=0D1117&title_color=00D2FF&text_color=C9D1D9" width="100%" alt="Most used languages in public repositories" />
 </div>
+
+## Contribution Visual
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pateljiop&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=00D2FF&text_color=C9D1D9&icon_color=8B5CF6" alt="GitHub account statistics for pateljiop" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateljiop&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D2FF&text_color=C9D1D9" alt="Most used programming languages across public repositories" />
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=pateljiop&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D2FF&fire=8B5CF6&currStreakLabel=00D2FF)](https://git.io/streak-stats)
-
+![Contribution Snake](https://raw.githubusercontent.com/pateljiop/pateljiop/output/github-contribution-grid-snake.svg)
 </div>
 
-## Toolbox
+*The animation appears after the [contribution workflow](https://github.com/pateljiop/pateljiop/actions/workflows/snake.yml) succeeds.*
+
+## Tech Stack
 
 <div align="center">
 
@@ -71,36 +62,14 @@ I like turning ideas into working software—with clear interfaces, useful featu
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
 
-## Contributions
-
-<div align="center">
-
-![Contribution Snake](https://raw.githubusercontent.com/pateljiop/pateljiop/output/github-contribution-grid-snake.svg)
-
-</div>
-
-> **Animation setup:** the workflow is already in this repository. Open [Actions](https://github.com/pateljiop/pateljiop/actions/workflows/snake.yml), run **Generate contribution snake**, and wait for a successful run. The image appears after the `output` branch is published.
-
-## Principles
-
-- Build useful things before adding complexity.
-- Prefer working demos over claims.
-- Document what works—and what is still experimental.
-- Improve through small, verifiable changes.
-
-<div align="center">
-
 ---
 
-**Thanks for stopping by.**  
+<div align="center">
+**Build useful things. Test honestly. Improve every day.**  
 *Code • Create • Automate*
-
 </div>
