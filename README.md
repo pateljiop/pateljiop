@@ -37,6 +37,12 @@ I like turning ideas into working software—with clear interfaces, useful featu
 
 ## featured-projects
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/featured-projects.svg" width="100%" alt="Four featured Hariom Builds projects: Haryomix, Hariom AI, Komio and Website Tour Recorder" />
+
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -88,6 +94,12 @@ A configurable website-tour recorder with Playwright browser automation and vide
 
 <div align="center">
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pateljiop&bg_color=0d1117&color=c9d1d9&line=00d2ff&point=a78bfa&area=true&hide_border=true)](https://github.com/pateljiop)
+
+</div>
+
+<div align="center">
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=pateljiop&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=00D2FF&text_color=C9D1D9&icon_color=8B5CF6" alt="GitHub account statistics for pateljiop" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateljiop&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D2FF&text_color=C9D1D9" alt="Most used programming languages across public repositories" />
 
@@ -120,7 +132,7 @@ A configurable website-tour recorder with Playwright browser automation and vide
 
 </div>
 
-> If the contribution animation is not visible yet, run the Generate contribution snake workflow from the Actions tab after adding the workflow file.
+> **Animation setup:** the workflow is already in this repository. Open [Actions](https://github.com/pateljiop/pateljiop/actions/workflows/snake.yml), run **Generate contribution snake**, and wait for a successful run. The image appears after the `output` branch is published.
 
 ## Principles
 
