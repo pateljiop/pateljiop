@@ -120,6 +120,13 @@ A project for recording website journeys and browser workflows.
 
 `AI agents` · `Tool calling` · `System design` · `Cloud deployment` · `Reliable automation`
 
+## 05 / HOW I BUILD
+
+- **Start with a real problem.** Keep the scope small enough to ship and test.
+- **Prefer working software.** Verify features instead of relying on screenshots or claims.
+- **Make automation safe.** Use clear permissions and human approval for risky actions.
+- **Improve in public.** Document decisions, fix issues, and welcome useful feedback.
+
 ---
 
 <div align="center">
