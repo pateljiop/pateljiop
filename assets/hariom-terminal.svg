@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+<title id="title">Hariom Builds terminal card</title>
+<desc id="desc">A dark terminal-themed developer identity card for Hariom Builds.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07111d"/><stop offset="1" stop-color="#111025"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00d2ff"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="2" y="2" width="996" height="296" rx="18" fill="url(#bg)" stroke="#1d4562" stroke-width="2"/>
+<path d="M20 2H980a18 18 0 0 1 18 18v35H2V20A18 18 0 0 1 20 2Z" fill="#101827"/>
+<circle cx="27" cy="28" r="6" fill="#ff5f57"/><circle cx="48" cy="28" r="6" fill="#febc2e"/><circle cx="69" cy="28" r="6" fill="#28c840"/>
+<text x="500" y="33" fill="#90a4b8" font-family="monospace" font-size="14" text-anchor="middle">hariom-builds — developer console</text>
+<text x="35" y="91" fill="#38bdf8" font-family="monospace" font-size="20">$ whoami</text>
+<text x="35" y="127" fill="#f1f5f9" font-family="monospace" font-size="25" font-weight="700">Hariom Patel</text>
+<text x="35" y="155" fill="#b8c7d9" font-family="monospace" font-size="16">BCA student · Developer · Builder</text>
+<text x="35" y="197" fill="#a78bfa" font-family="monospace" font-size="17">$ focus --current</text>
+<text x="35" y="226" fill="#d1fae5" font-family="monospace" font-size="16">Web apps / AI tools / Automation</text>
+<text x="35" y="260" fill="#64748b" font-family="monospace" font-size="14">Code carefully. Test honestly. Ship useful things.</text>
+<rect x="650" y="82" width="310" height="175" rx="14" fill="#090f1a" stroke="url(#line)" stroke-width="2"/>
+<text x="674" y="113" fill="#38bdf8" font-family="monospace" font-size="15">CURRENT WORKSPACE</text>
+<circle cx="681" cy="144" r="4" fill="#34d399"/><text x="696" y="149" fill="#e2e8f0" font-family="monospace" font-size="16">Haryomix</text>
+<circle cx="681" cy="177" r="4" fill="#a78bfa"/><text x="696" y="182" fill="#e2e8f0" font-family="monospace" font-size="16">Hariom AI</text>
+<circle cx="681" cy="210" r="4" fill="#fbbf24"/><text x="696" y="215" fill="#e2e8f0" font-family="monospace" font-size="16">Komio</text>
+<path d="M674 235H936" stroke="#263447"/><text x="674" y="250" fill="#64748b" font-family="monospace" font-size="12">BUILD • VERIFY • IMPROVE</text>
+<rect x="34" y="274" width="930" height="3" rx="1.5" fill="url(#line)" opacity=".9" filter="url(#glow)"/>
+</svg>
