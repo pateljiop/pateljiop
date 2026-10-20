@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500" role="img" aria-labelledby="title desc">
+<title id="title">Hariom Builds illustrated avatar sketch</title><desc id="desc">A developer in a dark hoodie seen from behind against a blue and violet sunset, drawn in a neon cyber illustration style.</desc>
+<defs>
+ <linearGradient id="sky" x1="0" y1="0" x2="0.9" y2="1"><stop stop-color="#6e8fc8"/><stop offset=".45" stop-color="#f4a9b0"/><stop offset=".68" stop-color="#283e69"/><stop offset="1" stop-color="#071321"/></linearGradient>
+ <linearGradient id="hood" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1d344d"/><stop offset=".6" stop-color="#091522"/><stop offset="1" stop-color="#03080f"/></linearGradient>
+ <clipPath id="circle"><circle cx="250" cy="250" r="228"/></clipPath>
+ <filter id="glow"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<circle cx="250" cy="250" r="238" fill="#020711" stroke="#1d9fc4" stroke-width="4"/>
+<g clip-path="url(#circle)">
+ <rect width="500" height="500" fill="url(#sky)"/>
+ <circle cx="102" cy="174" r="73" fill="#ffcad0" opacity=".25" filter="url(#glow)"/>
+ <path d="M0 212 Q75 183 142 213 T290 203 T500 191 V300 H0Z" fill="#182a48" opacity=".55"/>
+ <path d="M0 280 L70 227 115 263 171 218 220 273 288 226 354 269 416 220 500 262 V500 H0Z" fill="#15233d"/>
+ <path d="M0 320 L83 280 143 312 220 270 301 318 376 276 500 321 V500 H0Z" fill="#0b1728"/>
+ <path d="M0 344 Q80 326 160 348 T330 340 T500 350" fill="none" stroke="#5dd9f3" stroke-width="2" opacity=".55"/>
+ <path d="M0 365 Q100 347 210 372 T500 362" fill="none" stroke="#a78bfa" stroke-width="2" opacity=".45"/>
+ <!-- shoulders and hoodie -->
+ <path d="M63 520 Q69 421 120 366 Q151 336 196 326 L226 308 287 308 320 328 Q374 340 407 384 Q445 432 450 520Z" fill="url(#hood)" stroke="#31516c" stroke-width="3"/>
+ <path d="M155 365 Q178 324 217 314 L242 331 266 314 Q307 323 337 366 L312 409 184 411Z" fill="#14273d" stroke="#42617b" stroke-width="3"/>
+ <!-- head, hair from behind -->
+ <path d="M183 318 Q166 286 173 245 Q178 202 215 187 Q253 171 283 197 Q313 220 307 271 L296 315 265 340 213 335Z" fill="#0b111b" stroke="#253c56" stroke-width="3"/>
+ <path d="M171 257 Q155 223 178 196 Q183 164 219 158 Q235 137 264 154 Q293 151 307 178 Q327 190 315 222 L305 245 295 217 279 208 259 189 237 209 213 214 197 239 188 267Z" fill="#070c14" stroke="#192d44" stroke-width="4"/>
+ <path d="M184 220 Q199 183 228 178 M203 209 Q223 166 254 170 M244 193 Q272 173 292 202 M271 207 Q297 202 305 231" fill="none" stroke="#4879a2" stroke-width="4" stroke-linecap="round"/>
+ <path d="M199 328 Q244 355 292 324" fill="none" stroke="#3d5b75" stroke-width="3"/>
+ <!-- jacket seam and backpack -->
+ <path d="M220 355 L206 443 M282 354 L307 447" stroke="#203b54" stroke-width="4"/>
+ <path d="M172 372 Q204 353 222 366 L232 467 159 467Z" fill="#0a1320" stroke="#294b65" stroke-width="3"/>
+ <path d="M328 370 Q300 353 282 366 L270 467 343 467Z" fill="#0a1320" stroke="#294b65" stroke-width="3"/>
+ <path d="M195 395 L201 452 M305 395 L299 452" stroke="#5b8ca8" stroke-width="2" opacity=".7"/>
+ <path d="M220 381 L280 381" stroke="#0a0e17" stroke-width="7"/>
+ <text x="250" y="474" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="3" fill="#6ee7f9" opacity=".9">HARIOM BUILDS</text>
+</g>
+<circle cx="250" cy="250" r="228" fill="none" stroke="#a78bfa" stroke-width="2" opacity=".75"/>
+</svg>
