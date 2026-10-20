@@ -18,7 +18,7 @@
 <div align="center">
 <picture>
   <source media="(min-width: 700px)" srcset="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-terminal.svg" />
-  <img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-terminal-mobile.svg" width="100%" alt="Hariom Patel developer terminal showing profile, active projects and learning goals" />
+  <img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-terminal-mobile.jpg" width="100%" alt="Hariom Patel developer terminal with his chosen profile image, projects and learning goals" />
 </picture>
 </div>
 
