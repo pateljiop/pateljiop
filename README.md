@@ -19,6 +19,10 @@
 ## Developer Console
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-avatar-sketch.svg" width="180" alt="Hariom Builds neon illustrated developer avatar" />
+</div>
+
+<div align="center">
 <picture>
   <source media="(min-width: 700px)" srcset="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-terminal.svg" />
   <img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-terminal-mobile.svg" width="100%" alt="Hariom Builds developer identity and workspace" />
