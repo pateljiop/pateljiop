@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Hariom Builds — Ideas to Products</title><desc id="desc">A custom dark developer-workspace banner with a glowing terminal, abstract code-grid and neon cyan and violet accents.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030711"/><stop offset=".58" stop-color="#071626"/><stop offset="1" stop-color="#160b2c"/></linearGradient><linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".55" stop-color="#60a5fa"/><stop offset="1" stop-color="#c084fc"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#15334b" stroke-width="1" opacity=".65"/></pattern><filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="360" rx="20" fill="url(#bg)"/><rect width="1200" height="360" rx="20" fill="url(#grid)" opacity=".8"/>
+<circle cx="970" cy="100" r="180" fill="#6d28d9" opacity=".10"/><circle cx="1060" cy="290" r="200" fill="#0891b2" opacity=".12"/>
+<path d="M640 0L840 360M760 0L960 360M880 0L1080 360" stroke="#163c57" stroke-width="2" opacity=".55"/>
+<rect x="55" y="44" width="54" height="5" rx="2.5" fill="url(#neon)"/>
+<text x="55" y="112" fill="#e5f4ff" font-family="monospace" font-size="64" font-weight="800" letter-spacing="-3">HARIOM</text>
+<text x="55" y="176" fill="url(#neon)" font-family="monospace" font-size="68" font-weight="800" letter-spacing="-3" filter="url(#glow)">BUILDS</text>
+<text x="59" y="220" fill="#7dd3fc" font-family="monospace" font-size="17" letter-spacing="3">IDEAS  →  CODE  →  PRODUCTS</text>
+<rect x="58" y="250" width="132" height="30" rx="15" fill="#081a2a" stroke="#164e63"/><text x="124" y="270" fill="#bae6fd" text-anchor="middle" font-family="monospace" font-size="12">WEB DEV</text>
+<rect x="200" y="250" width="100" height="30" rx="15" fill="#10132b" stroke="#6d28d9"/><text x="250" y="270" fill="#ddd6fe" text-anchor="middle" font-family="monospace" font-size="12">AI / TOOLS</text>
+<rect x="310" y="250" width="130" height="30" rx="15" fill="#081a2a" stroke="#155e75"/><text x="375" y="270" fill="#a5f3fc" text-anchor="middle" font-family="monospace" font-size="12">AUTOMATION</text>
+<g transform="translate(680 70)"><rect width="440" height="230" rx="16" fill="#050b15" stroke="url(#neon)" stroke-width="2"/><path d="M0 48H440" stroke="#23384b"/><circle cx="22" cy="24" r="5" fill="#fb7185"/><circle cx="40" cy="24" r="5" fill="#fbbf24"/><circle cx="58" cy="24" r="5" fill="#34d399"/><text x="82" y="29" fill="#94a3b8" font-family="monospace" font-size="13">hariom@builds: ~/workspace</text>
+<text x="24" y="82" fill="#34d399" font-family="monospace" font-size="15">$ git status --short</text><text x="24" y="110" fill="#c4b5fd" font-family="monospace" font-size="14">M  Haryomix</text><text x="24" y="136" fill="#7dd3fc" font-family="monospace" font-size="14">A  Hariom AI</text><text x="24" y="162" fill="#fcd34d" font-family="monospace" font-size="14">→  build · test · improve</text><path d="M24 185H416" stroke="#1e293b"/><text x="24" y="210" fill="#64748b" font-family="monospace" font-size="12">STATUS: BUILDING IN PUBLIC</text></g>
+<text x="680" y="332" fill="#94a3b8" font-family="monospace" font-size="13" letter-spacing="2">CODE • CREATE • AUTOMATE</text>
+</svg>
