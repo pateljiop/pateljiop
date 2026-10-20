@@ -2,117 +2,74 @@
 
 <img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-hero.svg" width="100%" alt="Hariom Builds — Ideas to Code to Products" />
 
-[![Web Development](https://img.shields.io/badge/Web_Development-071626?style=for-the-badge&logo=react&logoColor=61dafb)](https://github.com/pateljiop)
-[![AI Tools](https://img.shields.io/badge/AI_Tools-071626?style=for-the-badge&logo=openai&logoColor=c084fc)](https://github.com/pateljiop?tab=repositories)
-[![Open Source](https://img.shields.io/badge/Open_Source-071626?style=for-the-badge&logo=github&logoColor=34d399)](https://github.com/pateljiop?tab=repositories)
-[![Automation](https://img.shields.io/badge/Automation-071626?style=for-the-badge&logo=githubactions&logoColor=67e8f9)](https://github.com/pateljiop)
+[![Web Development](https://img.shields.io/badge/WEB_DEV-071626?style=flat-square&logo=react&logoColor=61dafb)](https://github.com/pateljiop)
+[![AI / ML](https://img.shields.io/badge/AI_%2F_ML-071626?style=flat-square&logo=openai&logoColor=c084fc)](https://github.com/pateljiop?tab=repositories)
+[![Open Source](https://img.shields.io/badge/OPEN_SOURCE-071626?style=flat-square&logo=github&logoColor=34d399)](https://github.com/pateljiop?tab=repositories)
+[![Automation](https://img.shields.io/badge/AUTOMATION-071626?style=flat-square&logo=githubactions&logoColor=67e8f9)](https://github.com/pateljiop?tab=repositories)
 
 </div>
 
 <table>
 <tr>
-<td width="27%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-terminal-mobile.jpg" width="100%" alt="Hariom Patel" />
-
-### Hariom Patel
-`pateljiop`
-
-Building useful things on the internet.
-
-[![Follow on GitHub](https://img.shields.io/badge/Follow-GitHub-0b1220?style=for-the-badge&logo=github)](https://github.com/pateljiop)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pateljiop)
-
-</td>
-<td width="43%" valign="top">
+<td width="58%" valign="top">
 
 ### `hariom@github:~$ neofetch`
 
-```text
-NAME       Hariom Patel
-ROLE       BCA Student / Developer
-FOCUS      Web apps, AI tools, automation
-LOCATION   India
-STATUS     Building and learning
-```
+<img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-terminal.svg?v=4" width="100%" alt="Hariom Patel developer terminal" />
 
-**Current mission**
+**Hariom Patel** · `pateljiop`  
+BCA student and developer building useful products with web technologies, AI tools and automation.
 
-Turning ideas into real products, automating repeatable work, and improving projects through testing and iteration.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hariom-portfolio.pages.dev/)
-[![Projects](https://img.shields.io/badge/Projects-Explore-7C3AED?style=for-the-badge&logo=github)](https://github.com/pateljiop?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-111827?style=flat-square&logo=github)](https://github.com/pateljiop) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0891B2?style=flat-square&logo=googlechrome&logoColor=white)](https://hariom-portfolio.pages.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/pateljiop)
 
 </td>
-<td width="30%" valign="top">
+<td width="42%" valign="top">
 
 ### 🟢 Currently building
 
-| Project | What it is | Link |
-|:--|:--|:--:|
-| 🟡 **Haryomix** | Student workspace | [↗](https://haryomix.eu.cc) |
-| 🟣 **Hariom AI** | AI workstation | [↗](https://github.com/pateljiop/hariom-ai) |
-| 🔵 **Komio** | Workflow tools | [↗](https://github.com/pateljiop/komio) |
-| 🟢 **Tour Recorder** | Browser automation | [↗](https://github.com/pateljiop/website-tour-recorder) |
+- 🟡 **Haryomix** · Student workspace  
+  [![Open](https://img.shields.io/badge/OPEN-16A34A?style=flat-square&logo=googlechrome&logoColor=white)](https://haryomix.eu.cc)
+- 🟣 **Hariom AI** · Personal AI workstation  
+  [![Repo](https://img.shields.io/badge/REPO-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/pateljiop/hariom-ai)
+- 🔵 **Komio** · Workflow experiments  
+  [![Repo](https://img.shields.io/badge/REPO-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/pateljiop/komio)
+- 🟢 **Tour Recorder** · Browser automation  
+  [![Repo](https://img.shields.io/badge/REPO-0F766E?style=flat-square&logo=github&logoColor=white)](https://github.com/pateljiop/website-tour-recorder)
 
 ### 🟣 Learning
-- AI systems and tool calling
-- System design
-- Cloud and deployment
-- Product engineering
+AI systems · Tool calling · System design · Cloud deployment
+
+### ☕ Fun fact
+I turn ideas into projects—and keep testing until they work.
 
 </td>
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="68%" valign="top">
+---
 
 ## 🔥 Contribution Activity
 
-<img src="https://ghchart.rshah.org/22d3ee/pateljiop" width="100%" alt="GitHub contribution history for pateljiop" />
+<div align="center">
 
-[Open full contribution history →](https://github.com/pateljiop?tab=overview)
+<img src="https://ghchart.rshah.org/22d3ee/pateljiop" width="100%" alt="GitHub contribution graph for pateljiop" />
 
-</td>
-<td width="32%" valign="top">
+[![View contributions](https://img.shields.io/badge/VIEW_CONTRIBUTIONS-GitHub-111827?style=flat-square&logo=github)](https://github.com/pateljiop?tab=overview)
 
-## 📈 GitHub Stats
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=pateljiop&show_icons=true&hide_border=true&hide_title=true&rank_icon=github&include_all_commits=true&bg_color=050b14&title_color=22d3ee&text_color=c9d1d9&icon_color=c084fc" width="100%" alt="Live GitHub statistics" />
-
-</td>
-</tr>
-</table>
-
-## 📊 Developer Analytics
+## 📊 Live GitHub Stats
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pateljiop&show_icons=true&hide_border=true&hide_title=true&rank_icon=github&include_all_commits=true&bg_color=050b14&title_color=22d3ee&text_color=c9d1d9&icon_color=c084fc" width="100%" alt="GitHub statistics" />
+
+</td>
+<td width="50%" valign="top">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateljiop&layout=compact&hide_border=true&langs_count=6&bg_color=050b14&title_color=c084fc&text_color=c9d1d9" width="100%" alt="Most used languages" />
-
-</td>
-<td width="34%" valign="top">
-
-### ⭐ Top repositories
-- [Haryomix](https://github.com/pateljiop/Haryomix)
-- [Hariom AI](https://github.com/pateljiop/hariom-ai)
-- [Komio](https://github.com/pateljiop/komio)
-- [Website Tour Recorder](https://github.com/pateljiop/website-tour-recorder)
-- [Portfolio](https://github.com/pateljiop/Hariom-Professional-Portfolio)
-
-</td>
-<td width="33%" valign="top">
-
-### ⚡ Current focus
-- Build useful products
-- Automate repeatable tasks
-- Improve reliability and security
-- Ship and iterate in public
 
 </td>
 </tr>
@@ -120,50 +77,47 @@ Turning ideas into real products, automating repeatable work, and improving proj
 
 ## 🚀 Featured Projects
 
-<img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/featured-projects.svg" width="100%" alt="Featured projects gallery" />
-
 <table>
 <tr>
 <td width="25%" valign="top">
 
 ### 🟡 Haryomix
-Student workspace for learning and exam preparation.
+Student digital workspace for learning and exam preparation.
 
 `Next.js` · `TypeScript`
 
-[![Live site](https://img.shields.io/badge/Live_Site-Open-16A34A?style=for-the-badge)](https://haryomix.eu.cc)
-
-[![Source code](https://img.shields.io/badge/Source_Code-GitHub-111827?style=for-the-badge&logo=github)](https://github.com/pateljiop/Haryomix)
+[![LIVE DEMO](https://img.shields.io/badge/LIVE_DEMO-Open-16A34A?style=flat-square)](https://haryomix.eu.cc)  
+[![SOURCE](https://img.shields.io/badge/SOURCE-GitHub-111827?style=flat-square&logo=github)](https://github.com/pateljiop/Haryomix)
 
 </td>
 <td width="25%" valign="top">
 
 ### 🟣 Hariom AI
-Personal AI workstation exploring tools and automation.
+Personal AI workstation exploring tools, agents and automation.
 
 `Python` · `AI tools`
 
-[![Repository](https://img.shields.io/badge/Repository-Open-111827?style=for-the-badge&logo=github)](https://github.com/pateljiop/hariom-ai)
+[![REPOSITORY](https://img.shields.io/badge/REPOSITORY-Open-7C3AED?style=flat-square)](https://github.com/pateljiop/hariom-ai)
 
 </td>
 <td width="25%" valign="top">
 
 ### 🔵 Komio
-Experiments with structured workflows and approvals.
+Experiments with structured workflows and approval gates.
 
 `Python` · `SQLite`
 
-[![Repository](https://img.shields.io/badge/Repository-Open-111827?style=for-the-badge&logo=github)](https://github.com/pateljiop/komio)
+[![REPOSITORY](https://img.shields.io/badge/REPOSITORY-Open-2563EB?style=flat-square)](https://github.com/pateljiop/komio)
 
 </td>
 <td width="25%" valign="top">
 
-### 🟢 Website Tour Recorder
+### 🟢 Tour Recorder
 Browser tours and website recording workflows.
 
 `Playwright` · `FFmpeg`
 
-[![Repository](https://img.shields.io/badge/Repository-Open-111827?style=for-the-badge&logo=github)](https://github.com/pateljiop/website-tour-recorder)
+[![REPOSITORY](https://img.shields.io/badge/REPOSITORY-Open-0F766E?style=flat-square)](https://github.com/pateljiop/website-tour-recorder)
 
 </td>
 </tr>
@@ -175,18 +129,12 @@ Browser tours and website recording workflows.
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,fastapi,tailwind,mongodb,postgres,git,github,docker,figma&theme=dark" width="100%" alt="Technologies used across my projects" />
 
-</div>
-
-<div align="center">
-
 ---
 
-**Building in public&nbsp; | &nbsp;Learning every day&nbsp; | &nbsp;Open to collaborate**
+**Building in public · Learning every day · Open to collaborate**
 
-[![GitHub](https://img.shields.io/badge/GitHub-pateljiop-111827?style=for-the-badge&logo=github)](https://github.com/pateljiop)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Hariom_Builds-0e7490?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hariom-portfolio.pages.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pateljiop)
+[![GitHub](https://img.shields.io/badge/GitHub-pateljiop-111827?style=for-the-badge&logo=github)](https://github.com/pateljiop) [![Portfolio](https://img.shields.io/badge/Portfolio-Hariom_Builds-0e7490?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hariom-portfolio.pages.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pateljiop)
 
-*Thanks for visiting! 💜*
+*Ideas → Code → Products. Thanks for visiting! 💜*
 
 </div>
