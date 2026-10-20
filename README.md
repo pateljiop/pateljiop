@@ -16,6 +16,14 @@
 
 ---
 
+## Developer Console
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-terminal.svg" width="100%" alt="Hariom Builds developer terminal identity card" />
+
+</div>
+
 ## whoami
 
 I'm **Hariom Patel**, a BCA student and developer building practical web apps, AI-assisted tools, and automation workflows.
