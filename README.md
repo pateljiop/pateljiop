@@ -47,12 +47,14 @@ Turning ideas into real products, automating repeatable work, and improving proj
 </td>
 <td width="30%" valign="top">
 
-### 🟢 Currently working on
+### 🟢 Currently building
 
-- 🟡 **Haryomix** — Student workspace · [![Open](https://img.shields.io/badge/OPEN-16A34A?style=flat-square&logo=googlechrome&logoColor=white)](https://haryomix.eu.cc)
-- 🟣 **Hariom AI** — AI workstation · [![Repo](https://img.shields.io/badge/REPO-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/pateljiop/hariom-ai)
-- 🔵 **Komio** — Workflow tools · [![Repo](https://img.shields.io/badge/REPO-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/pateljiop/komio)
-- 🟢 **Tour Recorder** — Browser automation · [![Repo](https://img.shields.io/badge/REPO-0F766E?style=flat-square&logo=github&logoColor=white)](https://github.com/pateljiop/website-tour-recorder)
+| Project | What it is | Link |
+|:--|:--|:--:|
+| 🟡 **Haryomix** | Student workspace | [↗](https://haryomix.eu.cc) |
+| 🟣 **Hariom AI** | AI workstation | [↗](https://github.com/pateljiop/hariom-ai) |
+| 🔵 **Komio** | Workflow tools | [↗](https://github.com/pateljiop/komio) |
+| 🟢 **Tour Recorder** | Browser automation | [↗](https://github.com/pateljiop/website-tour-recorder) |
 
 ### 🟣 Learning
 - AI systems and tool calling
