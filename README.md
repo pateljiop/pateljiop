@@ -49,21 +49,10 @@ Turning ideas into real products, automating repeatable work, and improving proj
 
 ### 🟢 Currently working on
 
-**🟡 Haryomix**  
-<sub>Student digital workspace · Learning tools & exam prep</sub>  
-[![Open Haryomix](https://img.shields.io/badge/OPEN_HARYOMIX-Live_Site-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://haryomix.eu.cc)
-
-**🟣 Hariom AI**  
-<sub>Personal AI workstation · Tools, agents & automation</sub>  
-[![Explore Hariom AI](https://img.shields.io/badge/EXPLORE_HARIOM_AI-Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pateljiop/hariom-ai)
-
-**🔵 Komio**  
-<sub>Workflow experiments · Structured tasks & approvals</sub>  
-[![Explore Komio](https://img.shields.io/badge/EXPLORE_KOMIO-Repository-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pateljiop/komio)
-
-**🟢 Website Tour Recorder**  
-<sub>Browser automation · Website tours & recording workflows</sub>  
-[![Explore Tour Recorder](https://img.shields.io/badge/EXPLORE_TOUR_RECORDER-Repository-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pateljiop/website-tour-recorder)
+- 🟡 **Haryomix** — Student workspace · [![Open](https://img.shields.io/badge/OPEN-16A34A?style=flat-square&logo=googlechrome&logoColor=white)](https://haryomix.eu.cc)
+- 🟣 **Hariom AI** — AI workstation · [![Repo](https://img.shields.io/badge/REPO-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/pateljiop/hariom-ai)
+- 🔵 **Komio** — Workflow tools · [![Repo](https://img.shields.io/badge/REPO-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/pateljiop/komio)
+- 🟢 **Tour Recorder** — Browser automation · [![Repo](https://img.shields.io/badge/REPO-0F766E?style=flat-square&logo=github&logoColor=white)](https://github.com/pateljiop/website-tour-recorder)
 
 ### 🟣 Learning
 - AI systems and tool calling
