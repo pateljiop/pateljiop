@@ -52,11 +52,13 @@
 
 ## 🚀 Featured Projects
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/featured-projects.svg" width="100%" alt="Featured projects overview" />
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
-
-<a href="https://haryomix.eu.cc"><img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/project-haryomix.png" width="100%" alt="Haryomix project preview" /></a>
 
 ### 🟡 Haryomix
 A digital workspace for students, learners and exam aspirants.
@@ -67,8 +69,6 @@ A digital workspace for students, learners and exam aspirants.
 
 </td>
 <td width="50%" valign="top">
-
-<a href="https://github.com/pateljiop/hariom-ai"><img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/project-hariom-ai.png" width="100%" alt="Hariom AI project preview" /></a>
 
 ### 🟣 Hariom AI
 A personal AI workstation exploring controlled tools, computer use and automation.
@@ -82,8 +82,6 @@ A personal AI workstation exploring controlled tools, computer use and automatio
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/pateljiop/komio"><img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/project-komio.png" width="100%" alt="Komio project preview" /></a>
-
 ### 🔵 Komio
 A workspace built around tool boundaries, structured workflows and approvals.
 
@@ -93,8 +91,6 @@ A workspace built around tool boundaries, structured workflows and approvals.
 
 </td>
 <td width="50%" valign="top">
-
-<a href="https://github.com/pateljiop/website-tour-recorder"><img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/project-tour-recorder.png" width="100%" alt="Website Tour Recorder project preview" /></a>
 
 ### 🟢 Website Tour Recorder
 A project for repeatable browser tours and website recording workflows.
