@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(min-width: 700px)" srcset="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-hero.svg" />
-  <img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-hero-mobile.svg" width="100%" alt="Hariom Builds — Ideas to Code to Products" />
-</picture>
+<img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-hero.svg" width="100%" alt="Hariom Builds — Ideas to Code to Products" />
 
 **WEB DEVELOPER · AI TOOLS · AUTOMATION · OPEN SOURCE**
 
@@ -16,10 +13,7 @@
 ## 01 — DEVELOPER TERMINAL
 
 <div align="center">
-<picture>
-  <source media="(min-width: 700px)" srcset="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-terminal.svg" />
-  <img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-terminal-mobile.jpg" width="100%" alt="Hariom Patel developer terminal with his chosen profile image, projects and learning goals" />
-</picture>
+<img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-terminal-mobile.jpg" width="100%" alt="Hariom Patel developer terminal and profile card" />
 </div>
 
 I'm **Hariom Patel**, a BCA student at Rajju Bhaiya University building useful digital products, developer tools and automation workflows.
@@ -65,10 +59,7 @@ I'm **Hariom Patel**, a BCA student at Rajju Bhaiya University building useful d
 ## 04 — PROJECT LAB
 
 <div align="center">
-<picture>
-  <source media="(min-width: 700px)" srcset="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/featured-projects.svg" />
-  <img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/featured-projects-mobile.svg" width="100%" alt="Four featured projects from Hariom Builds" />
-</picture>
+<img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/featured-projects.svg" width="100%" alt="Four featured projects from Hariom Builds" />
 </div>
 
 <table>
