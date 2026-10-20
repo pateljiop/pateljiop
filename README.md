@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/08_Banner_Cover.png" width="100%" alt="Hariom Builds — Code, Create, Automate" />
+<img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-hero.svg" width="100%" alt="Hariom Builds — neon developer workspace banner" />
 
 # HARIOM BUILDS
 
-### Building useful products. Automating the repetitive. Learning in public.
+### Ideas → Code → Products<br/>Building useful software and automation in public.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D2FF?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://hariom-portfolio.pages.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-pateljiop-161B22?style=for-the-badge&logo=github)](https://github.com/pateljiop)
