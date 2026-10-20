@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-hero.svg" width="100%" alt="Hariom Builds neon developer banner" />
+<picture>
+  <source media="(min-width: 700px)" srcset="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-hero.svg" />
+  <img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-hero-mobile.svg" width="100%" alt="Hariom Builds neon developer banner" />
+</picture>
 
 # HARIOM BUILDS
 **Ideas → Code → Products**
@@ -16,7 +19,10 @@
 ## Developer Console
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-terminal.svg" width="100%" alt="Hariom Builds developer identity and workspace" />
+<picture>
+  <source media="(min-width: 700px)" srcset="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-terminal.svg" />
+  <img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-terminal-mobile.svg" width="100%" alt="Hariom Builds developer identity and workspace" />
+</picture>
 </div>
 
 I'm **Hariom Patel**, a BCA student building practical web apps, AI-assisted tools and automation workflows.
@@ -28,7 +34,10 @@ I'm **Hariom Patel**, a BCA student building practical web apps, AI-assisted too
 ## Featured Projects
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/featured-projects.svg" width="100%" alt="Hariom Builds project gallery" />
+<picture>
+  <source media="(min-width: 700px)" srcset="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/featured-projects.svg" />
+  <img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/featured-projects-mobile.svg" width="100%" alt="Hariom Builds project gallery" />
+</picture>
 </div>
 
 | Project | Focus | Links |
