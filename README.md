@@ -37,7 +37,7 @@
 I'm a BCA student and developer who enjoys turning ideas into useful projects, then testing and improving them until they work.
 
 ### 🌐 Connect
-[GitHub](https://github.com/pateljiop) · [LinkedIn](https://linkedin.com/in/pateljiop) · [Portfolio](https://hariom-portfolio.pages.dev/) · [Instagram](https://instagram.com/hariompatel.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github)](https://github.com/pateljiop) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pateljiop) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hariom-portfolio.pages.dev/) [![Instagram](https://img.shields.io/badge/Instagram-Follow-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hariompatel.dev)
 
 ---
 
@@ -71,22 +71,26 @@ I'm a BCA student and developer who enjoys turning ideas into useful projects, t
 ### 🟡 [Haryomix](https://haryomix.eu.cc)
 A digital workspace for students, learners and exam aspirants.
 
-`Next.js` · `TypeScript` · [Source code](https://github.com/pateljiop/Haryomix)
+`Next.js` · `TypeScript`  
+[![Live site](https://img.shields.io/badge/Live_Site-Open-16A34A?style=for-the-badge)](https://haryomix.eu.cc) [![Source](https://img.shields.io/badge/Source_Code-GitHub-111827?style=for-the-badge&logo=github)](https://github.com/pateljiop/Haryomix)
 
 ### 🟣 [Hariom AI](https://github.com/pateljiop/hariom-ai)
 A personal AI workstation exploring controlled tools, approvals and automation.
 
-`Python` · `AI tools` · [Repository](https://github.com/pateljiop/hariom-ai)
+`Python` · `AI tools`  
+[![Repository](https://img.shields.io/badge/Repository-Open-111827?style=for-the-badge&logo=github)](https://github.com/pateljiop/hariom-ai)
 
 ### 🔵 [Komio](https://github.com/pateljiop/komio)
 A workspace exploring structured workflows and approval gates.
 
-`Python` · `SQLite` · [Repository](https://github.com/pateljiop/komio)
+`Python` · `SQLite`  
+[![Repository](https://img.shields.io/badge/Repository-Open-111827?style=for-the-badge&logo=github)](https://github.com/pateljiop/komio)
 
 ### 🟢 [Website Tour Recorder](https://github.com/pateljiop/website-tour-recorder)
 Repeatable browser tours and website recording workflows.
 
-`Playwright` · `FFmpeg` · [Repository](https://github.com/pateljiop/website-tour-recorder)
+`Playwright` · `FFmpeg`  
+[![Repository](https://img.shields.io/badge/Repository-Open-111827?style=for-the-badge&logo=github)](https://github.com/pateljiop/website-tour-recorder)
 
 ---
 
