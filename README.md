@@ -15,7 +15,7 @@
 
 ### `hariom@github:~$` neofetch
 
-<img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-terminal.svg" width="100%" alt="Hariom Patel developer terminal and current projects" />
+<img src="https://raw.githubusercontent.com/pateljiop/pateljiop/main/assets/hariom-terminal.svg?v=2" width="100%" alt="Hariom Patel developer terminal and current projects" />
 
 </td>
 <td width="38%" valign="top">
